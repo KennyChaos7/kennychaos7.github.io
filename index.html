@@ -10,9 +10,9 @@ layout: default
     {% for post in site.posts %}
     <div class="post-preview">
       <span class="post-title alignable pull-left">
-        <a class="post-link underline" href="{{ post.url | prepend: site.baseurl }}">
+        <h1><a class="post-link underline" href="{{ post.url | prepend: site.baseurl }}">
           {{ post.title }}
-        </a>
+        </a></h1>
       </span>
       <span class="post-time alignable pull-right">
         <time>{{ post.date | date: '%B %d, %Y '}}</time>
