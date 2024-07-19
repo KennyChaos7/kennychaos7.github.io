@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Game list
+# categories: [record]
+# tags: [game]
 ---
 
 - [web](#web)

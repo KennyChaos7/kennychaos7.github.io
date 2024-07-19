@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Part-time job
+# categories: [record]
+# tags: [job]
 ---
 - [模拟点击](#模拟点击)
   - [TODO](#todo)
