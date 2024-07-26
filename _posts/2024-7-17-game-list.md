@@ -2,7 +2,7 @@
 layout: post
 title: Game list
 # categories: [record]
-# tags: [game]
+tag-name:  game
 ---
 
 - [web](#web)

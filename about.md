@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-a ha
-
-### Contact me
+# Contact me
 
 [kennychaos7@gmail.com](kennychaos7@gmail.com)

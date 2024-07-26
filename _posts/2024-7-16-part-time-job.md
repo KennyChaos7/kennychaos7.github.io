@@ -2,7 +2,7 @@
 layout: post
 title: Part-time job
 # categories: [record]
-# tags: [job]
+tag-name:  game
 ---
 - [模拟点击](#模拟点击)
   - [TODO](#todo)
