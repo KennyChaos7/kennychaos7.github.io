@@ -135,6 +135,8 @@ a:hover {
 .wrapper {
     min-height: 100%;
     margin-bottom: -$footer-size;
+    // column-count: 2;
+    // column-gap: 0px;
 }
 .wrapper:after {
     content: "";
@@ -234,7 +236,15 @@ footer {
 .back-inner:hover {
     background: #000;
 }
-
+.leftNav {
+    width: auto;
+    text-align: left center;
+    font-size: smaller;
+    color: aqua;
+}
+.main {
+    width: auto;
+}
 /* Paginate
 * * * * * * * * * * * */
 .pagination {
