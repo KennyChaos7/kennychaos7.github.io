@@ -6,6 +6,7 @@ title: Game list
 ---
 
 - [web](#web)
+  - [宝可梦肉鸽](#宝可梦肉鸽)
   - [植物大战僵尸战旗版](#植物大战僵尸战旗版)
   - [老flash游戏转码网站](#老flash游戏转码网站)
 - [steam](#steam)
@@ -14,8 +15,13 @@ title: Game list
   - [幻化](#幻化)
   - [打本目标](#打本目标)
   - [相关攻略](#相关攻略)
+- [pokemmo](#pokemmo)
+- [pokeForce(还未正式发布)](#pokeforce还未正式发布)
   
 # web
+## 宝可梦肉鸽
+> [https://pokerogue.net/] (https://pokerogue.net/)
+
 ## 植物大战僵尸战旗版
 > [https://xingye.me/game/FlowersVsZombies/](https://xingye.me/game/FlowersVsZombies/)
 
@@ -30,3 +36,9 @@ title: Game list
 ## 幻化
 ## 打本目标
 ## 相关攻略
+
+# pokemmo
+> [https://pokemmo.com/zh/](https://pokemmo.com/zh/)
+
+# pokeForce(还未正式发布)
+> [https://forum.pokeforce.org/](https://forum.pokeforce.org/)
