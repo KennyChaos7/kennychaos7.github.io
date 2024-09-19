@@ -18,6 +18,7 @@ title: Game list
   - [~~相关攻略~~](#相关攻略)
 - [pokemmo](#pokemmo)
 - [pokeForce(还未正式发布)](#pokeforce还未正式发布)
+- [elona](#elona)
   
 # web
 ## 宝可梦肉鸽
@@ -48,3 +49,6 @@ title: Game list
 
 # pokeForce(还未正式发布)
 > [https://forum.pokeforce.org/](https://forum.pokeforce.org/)
+
+# elona 
+> [下载地址和汉化地址](https://ztjal.info/)
